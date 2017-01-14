@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_940ff9c48873591adcd0b75733e334c745c5338f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7c926404496a406419bde588191d574dedf93275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_7b45900f71d40cfaa394afb419721a2517086dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7c68c5016bc5d30a9153d58f7c51e54d2acc702e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_78f0d26fc439239bba098a92f68303e0af6abe48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8a0b39402b74af63264de82985f4dce73b2ef312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_27854be171bffbfc7a32e50adaf978020c93caa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_21c7cf9283c2aae07df964e0b98386b9dfd77d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f1311fd10ef225c54b62a133303c576120b991ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_cb537be573dd6abb85a53e09f082f9d46e6865ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_20696aa41088378c90e9c7c778b575af2d1a79b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c8edf9b231efe1a47d3c80c16446e15c142297fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_daf3d10b854eced4cda9d42fdaeb2eef2260eda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e563b0dd4baa49a9c1ae129b58f5ac8a4294355e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\najib\Downloads\ManageApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d2c06f04a890da189a31b12316141a5258f82f12.jar" />
+    </item>
+
+</items>
